@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1780686005078,
+  "timestamp": 1780687027170,
   "index": "/OfficeEntryExitTracker/index.html",
   "assetGroups": [
     {
@@ -13,6 +13,7 @@
       "urls": [
         "/OfficeEntryExitTracker/index.html",
         "/OfficeEntryExitTracker/main-VUPD43YV.js",
+        "/OfficeEntryExitTracker/manifest.webmanifest",
         "/OfficeEntryExitTracker/styles-5INURTSO.css"
       ],
       "patterns": []
@@ -29,7 +30,15 @@
         "/OfficeEntryExitTracker/favicon_io/android-chrome-512x512.png",
         "/OfficeEntryExitTracker/favicon_io/apple-touch-icon.png",
         "/OfficeEntryExitTracker/favicon_io/favicon-16x16.png",
-        "/OfficeEntryExitTracker/favicon_io/favicon-32x32.png"
+        "/OfficeEntryExitTracker/favicon_io/favicon-32x32.png",
+        "/OfficeEntryExitTracker/icons/icon-128x128.png",
+        "/OfficeEntryExitTracker/icons/icon-144x144.png",
+        "/OfficeEntryExitTracker/icons/icon-152x152.png",
+        "/OfficeEntryExitTracker/icons/icon-192x192.png",
+        "/OfficeEntryExitTracker/icons/icon-384x384.png",
+        "/OfficeEntryExitTracker/icons/icon-512x512.png",
+        "/OfficeEntryExitTracker/icons/icon-72x72.png",
+        "/OfficeEntryExitTracker/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -41,8 +50,17 @@
     "/OfficeEntryExitTracker/favicon_io/apple-touch-icon.png": "76483dc5974fa64ec4976c1fa7842992c1944080",
     "/OfficeEntryExitTracker/favicon_io/favicon-16x16.png": "579c47b0d43a54bb3f331ec952d8ce4bc50a4d3c",
     "/OfficeEntryExitTracker/favicon_io/favicon-32x32.png": "9ff5a67e9b7ad7b0d10e4932c1df3ebebb9f3802",
-    "/OfficeEntryExitTracker/index.html": "cf535dec2bfa4097f519d1e0d9457143a0a25b21",
+    "/OfficeEntryExitTracker/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/OfficeEntryExitTracker/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/OfficeEntryExitTracker/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/OfficeEntryExitTracker/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/OfficeEntryExitTracker/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/OfficeEntryExitTracker/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/OfficeEntryExitTracker/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/OfficeEntryExitTracker/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/OfficeEntryExitTracker/index.html": "bddcdb6d1be718df5a81cd6ae94846649d8d137c",
     "/OfficeEntryExitTracker/main-VUPD43YV.js": "90cff8a5dd3e0f1fd3f71dc66c9a2c28a1abac72",
+    "/OfficeEntryExitTracker/manifest.webmanifest": "0c11193e88a9b00017ecbe5d3b9c16b59f7e0631",
     "/OfficeEntryExitTracker/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
